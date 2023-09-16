@@ -40,4 +40,5 @@ export CONFLUENT_CLOUD_API_SECRET=<your API secret>
 
 ## Resources
 
-Terraform examples https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations
+Terraform examples:
+- https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations
